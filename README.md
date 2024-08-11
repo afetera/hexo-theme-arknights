@@ -21,7 +21,7 @@
 - **Dr.yuanli-LFSW<https://blog.yuanli-lfsw.com/>**
 - **Dr.Rimrose: <https://blog.rimrose.site>**
 - **Dr.Laplacian: <https://rhinelab.kr>**
-
+- **Dr.Yoav: <https://afetera.top>**
 如果使用了这个主题，欢迎在这儿贴预览链接~
 
 ![主题预览图片](./demo.jpg)
